@@ -1,1 +1,1 @@
-![](highway.gif)
+![](highway_name.gif)
