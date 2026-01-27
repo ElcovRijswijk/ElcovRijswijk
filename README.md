@@ -4,16 +4,31 @@ Bio-informatician, Barenbrug Netherlands
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+
+
+### Bioinformatic Tools
+
+![BLAST](https://img.shields.io/badge/-BLAST-000?&logoColor=white)
+![GATK](https://img.shields.io/badge/-GATK-000?&logoColor=white)
+![BWA](https://img.shields.io/badge/-BWA-000?&logoColor=white)
+![Bowtie2](https://img.shields.io/badge/-Bowtie2-000?&logoColor=white)
+![SAMtools](https://img.shields.io/badge/-SAMtools-000?&logoColor=white)
+![BCFtools](https://img.shields.io/badge/-BCFtools-000?&logoColor=white)
+![FreeBayes](https://img.shields.io/badge/-FreeBayes-000?&logoColor=white)
+![Biopython](https://img.shields.io/badge/-Biopython-000?&logo=Python&logoColor=4B8BBE)
+
+### Machine Learning / Data Science
+
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch&logoColor=EE4C2C)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-000?&logo=scikit-learn&logoColor=F7931E)
-![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly&logoColor=3F4F75)
 ![Pandas](https://img.shields.io/badge/-Pandas-000?&logo=Pandas&logoColor=150458)
-![R](https://img.shields.io/badge/-R-000?&logo=R&logoColor=276DC3)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?&logo=Matplotlib&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-000?&logo=Plotly&logoColor=3F4F75)
 
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask&logoColor=white)
 
 ### Technologies
 
