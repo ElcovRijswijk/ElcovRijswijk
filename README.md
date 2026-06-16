@@ -39,6 +39,3 @@ Bio-informatician, Barenbrug Netherlands
 ![SAMtools](https://img.shields.io/badge/-SAMtools-000?&logoColor=white)
 ![BCFtools](https://img.shields.io/badge/-BCFtools-000?&logoColor=white)
 ![FreeBayes](https://img.shields.io/badge/-FreeBayes-000?&logoColor=white)
-
-
-<a href="https://elcovrijswijk.github.io/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ElcovRijswijk&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=fff&icon_color=ebdb13&bg_color=010101,103cad,161b22,161b22,a8004f&theme=radical" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElcovRijswijk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=fff&icon_color=fff&bg_color=010101,a8004f,161b22,161b22,2aa769&theme=radical" /></a>
