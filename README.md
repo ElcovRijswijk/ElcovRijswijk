@@ -35,7 +35,6 @@ Bio-informatician, Barenbrug Netherlands
 ![BLAST](https://img.shields.io/badge/-BLAST-000?&logoColor=white)
 ![GATK](https://img.shields.io/badge/-GATK-000?&logoColor=white)
 ![BWA](https://img.shields.io/badge/-BWA-000?&logoColor=white)
-![Bowtie2](https://img.shields.io/badge/-Bowtie2-000?&logoColor=white)
 ![SAMtools](https://img.shields.io/badge/-SAMtools-000?&logoColor=white)
 ![BCFtools](https://img.shields.io/badge/-BCFtools-000?&logoColor=white)
 ![FreeBayes](https://img.shields.io/badge/-FreeBayes-000?&logoColor=white)
