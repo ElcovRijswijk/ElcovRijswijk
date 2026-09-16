@@ -1,5 +1,7 @@
 # [Elco van Rijswijk](https://elcovrijswijk.github.io/)
-Bio-informatician, Barenbrug Netherlands
+
+Bioinformatician with 5+ years of experience in data analysis, genomics, and computational biology. I work on transforming complex biological data into meaningful insights for plant breeding.
+My work includes developing bioinformatics pipelines, analysing sequencing data, applying machine learning and genomic selection approaches, and building scalable and reproducible solutions.
 
 #### Languages
 
